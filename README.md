@@ -1,5 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jinsu%27s%20GitHub&fontSize=90&fontColor=ffffff&textAlign=center&animation=twinkling" />
 
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <br>
+</p>
+
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://myinfo503.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://myinfo503.tistory.com"/></a>&nbsp
