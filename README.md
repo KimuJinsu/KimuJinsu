@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jinsu%27s%20GitHub&fontSize=90&fontColor=ffffff&textAlign=center&animation=twinkling" />
 
-### 🤞 Nice way to meet me 🤞
-<a href="https://myinfo503.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-### 💪 Skills 💪 
-##### Platforms & Languages
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
 ### 👨‍💻 Visitors 👩‍💻
 
