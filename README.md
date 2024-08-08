@@ -15,7 +15,7 @@
   <a href="mailto:jinsu8828@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinsu8828@gmail.com"/></a>
 </p>
 
-<h3 align="center">👨‍💻 Visitors 👩‍💻
+<h3 align="center">👨‍💻 Visitors 👩‍💻</h3> 
 
 <p align="center">
   <a href="https://github.com/KimuJinsu">
