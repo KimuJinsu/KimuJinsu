@@ -8,4 +8,5 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
-https://capsule-render.vercel.app/api?
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jinsu%27s%20GitHub&fontSize=90&fontColor=ffffff&textAlign=center&animation=fadeIn" />
+
