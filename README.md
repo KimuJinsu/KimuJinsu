@@ -27,6 +27,6 @@
 
 <p align="center">
   <a href="https://github.com/KimuJinsu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=default&hide_border=true&count_private=true" alt="Jinsu's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=merko&hide_border=true&count_private=true" alt="Jinsu's GitHub stats">
   </a>
 </p>
