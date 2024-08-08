@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
-<img src="https://capsulerender.vercel.app/apitext=Hello%World!type=slice
+<img src="https://capsulerender.vercel.app/api?text=Hello%World!type=slice
   &color=auto&customColorList=0,2,2,5,30&
   height=300&section=header&text=capsule%20render&fontSize=90" />
 
