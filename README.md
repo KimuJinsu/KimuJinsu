@@ -10,3 +10,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jinsu%27s%20GitHub&fontSize=90&fontColor=ffffff&textAlign=center&animation=fadeIn" />
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jinsu%27s%20GitHub&fontSize=90&fontColor=ffffff&textAlign=center&animation=twinkling" />
+
