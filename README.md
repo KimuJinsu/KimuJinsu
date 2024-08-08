@@ -12,5 +12,4 @@
 
 [![Jinsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/KimuJinsu/github-readme-stats)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=myinfo503&theme=default)](https://myinfo503.tistory.com)
 
