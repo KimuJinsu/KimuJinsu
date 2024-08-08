@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jinsu%27s%20GitHub&fontSize=90&fontColor=ffffff&textAlign=center&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=90&fontColor=ffffff&textAlign=center&animation=twinkling" />
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
