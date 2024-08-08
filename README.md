@@ -14,17 +14,17 @@
   <a href="https://www.instagram.com/jeensoo_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/jeensoo_/"/></a>&nbsp
   <a href="mailto:jinsu8828@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinsu8828@gmail.com"/></a>
 </p>
+
 ### 👨‍💻 Visitors 👩‍💻
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/KimuJinsu">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimuJinsu&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false" alt="GITHUB">
   </a>
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/KimuJinsu/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="Jinsu's GitHub stats">
   </a>
-</div>
-
+</p>
