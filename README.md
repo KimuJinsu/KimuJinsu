@@ -32,5 +32,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=merko&hide_border=true&count_private=true" alt="Jinsu's GitHub stats">
   </a>
 </p>
-
-![Jinsu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KimuJinsu&theme=github)
