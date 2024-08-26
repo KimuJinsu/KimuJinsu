@@ -31,27 +31,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=merko&hide_border=true&count_private=true" alt="Jinsu's GitHub stats">
   </a>
 </p>
-
-ㅡㅡㅡㅡㅡ
-<h3 align="center">📂 Repositories 📂</h3>
-
-<p align="center">
-  <a href="https://github.com/KimuJinsu/Repo1">
-    <img src="https://img.shields.io/badge/Repo1-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Repo1"/>
-  </a>
-  <a href="https://github.com/KimuJinsu/Repo2">
-    <img src="https://img.shields.io/badge/Repo2-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Repo2"/>
-  </a>
-  <a href="https://github.com/KimuJinsu/Repo3">
-    <img src="https://img.shields.io/badge/Repo3-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Repo3"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KimuJinsu/Repo4">
-    <img src="https://img.shields.io/badge/Repo4-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Repo4"/>
-  </a>
-  <a href="https://github.com/KimuJinsu/Repo5">
-    <img src="https://img.shields.io/badge/Repo5-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Repo5"/>
-  </a>
-</p>
