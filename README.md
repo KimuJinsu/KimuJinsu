@@ -26,20 +26,18 @@
   </a>
 </p>
 
+<!-- Top Languages Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="40%" />
 </a>    
+
+<!-- GitHub Stats Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="55%" />
 </a>
+
+<!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react-dark&bg_color=0d1117&hide_border=true&line=F85D7F&color=58A6FF" width="95%"/>
 </a>
-
-<p align="center">
-  <a href="https://github.com/KimuJinsu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=merko&hide_border=true&count_private=true" alt="Jinsu's GitHub stats">
-  </a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&textAlign=center&animation=twinkling" />
