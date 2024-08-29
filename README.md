@@ -41,3 +41,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react-dark&bg_color=0d1117&hide_border=true&line=F85D7F&color=58A6FF" width="95%"/>
 </a>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&textAlign=center&animation=twinkling" />
+
+![snake gif](https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg)
