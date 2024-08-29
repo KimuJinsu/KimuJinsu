@@ -42,4 +42,4 @@
 </a>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&textAlign=center&animation=twinkling" />
 
-<img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="border-radius:​⬤
