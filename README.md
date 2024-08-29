@@ -34,7 +34,7 @@
 
 <!-- 기여도 그래프 섹션 -->
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="filter: drop-shadow(0 0 10px #58A6FF);">
+<img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <!-- 상단 언어 카드 -->
