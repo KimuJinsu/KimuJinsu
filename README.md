@@ -26,6 +26,10 @@
   </a>
 </p>
 
+<div align="center" style="background-color:#2D2D2D; padding:20px; border-radius:10px;">
+  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="filter: drop-shadow(0 0 10px #58A6FF);">
+</div>
+
 <!-- Top Languages Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="40%" />
@@ -41,7 +45,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react-dark&bg_color=0d1117&hide_border=true&line=F85D7F&color=58A6FF" width="95%"/>
 </a>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&textAlign=center&animation=twinkling" />
-
-<div align="center" style="background-color:#2D2D2D; padding:20px; border-radius:10px;">
-  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="filter: drop-shadow(0 0 10px #58A6FF);">
-</div>
