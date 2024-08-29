@@ -31,3 +31,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&include_all_commits=true&theme=merko&hide_border=true&count_private=true" alt="Jinsu's GitHub stats">
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontColor=ffffff&textAlign=center&animation=twinkling" />
