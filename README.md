@@ -1,6 +1,6 @@
 <!-- 헤더 섹션: 웨이브 디자인 적용 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC1CC,100:FF69B4&height=300&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=60&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <!-- 기술 스택 섹션 -->
@@ -40,14 +40,14 @@
 <!-- 상단 언어 카드 -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="45%" />
   </a>    
 </div>
 
 <!-- GitHub 통계 카드 -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="55%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="50%" />
   </a>
 </div>
 
@@ -60,5 +60,5 @@
 
 <!-- 푸터 섹션: 웨이브 디자인 적용 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC1CC,100:FF69B4&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </div>
