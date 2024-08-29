@@ -1,6 +1,6 @@
 <!-- 헤더 섹션: 웨이브 디자인 적용 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=60&fontColor=ffffff&textAlign=center&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC1CC,100:FF69B4&height=300&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <!-- 기술 스택 섹션 -->
@@ -38,21 +38,27 @@
 </div>
 
 <!-- 상단 언어 카드 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="40%" />
-</a>    
+  </a>    
+</div>
 
 <!-- GitHub 통계 카드 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="55%" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="55%" />
+  </a>
+</div>
 
 <!-- 활동 그래프 -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react-dark&bg_color=0d1117&hide_border=true&line=F85D7F&color=58A6FF" width="95%"/>
-</a>
+  </a>
+</div>
 
 <!-- 푸터 섹션: 웨이브 디자인 적용 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&textAlign=center&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC1CC,100:FF69B4&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </div>
