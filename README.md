@@ -42,4 +42,6 @@
 </a>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&textAlign=center&animation=twinkling" />
 
-<img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #20232a; padding: 10px;" />
+<div align="center" style="background-color:#2D2D2D; padding:20px; border-radius:10px;">
+  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="filter: drop-shadow(0 0 10px #58A6FF);">
+</div>
