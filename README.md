@@ -32,6 +32,11 @@
   </a>
 </p>
 
+<!-- 기여도 그래프 섹션 -->
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #58A6FF);"/>
+</div>
+
 <!-- GitHub 통계 섹션 -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -40,11 +45,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="45%" />
   </a>
-</div>
-
-<!-- 기여도 그래프 섹션 -->
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #58A6FF);"/>
 </div>
 
 <!-- 활동 그래프 섹션 -->
