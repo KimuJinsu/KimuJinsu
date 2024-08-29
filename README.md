@@ -37,19 +37,12 @@
 <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
-<!-- 상단 언어 카드 -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="45%" />
-  </a>    
-</div>
-
-<!-- GitHub 통계 카드 -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="50%" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="48%" />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="48%" />
+</a>
 
 <!-- 활동 그래프 -->
 <div align="center">
