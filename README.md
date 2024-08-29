@@ -1,6 +1,6 @@
 <!-- 헤더 섹션: 웨이브 디자인 적용 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=60&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=150&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <!-- 기술 스택 섹션 -->
@@ -60,5 +60,5 @@
 
 <!-- 푸터 섹션: 웨이브 디자인 적용 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </div>
