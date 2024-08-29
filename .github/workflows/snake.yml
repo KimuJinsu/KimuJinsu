@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # 매 24시간마다 자동 실행
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # 수동으로 워크플로우 실행 가능
   workflow_dispatch:
-  
-  # master 브랜치에 푸시할 때마다 실행
   push:
     branches:
     - master
@@ -27,7 +22,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
           color_snake: "#58A6FF"  # 뱀 색상
           color_dots: "#F85D7F, #58A6FF"  # 커밋 색상
-          color_background: "#0d1117"  # 배경색을 테마에 맞게 설정
+          color_background: "#0d1117"  # 배경색
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
