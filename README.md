@@ -5,7 +5,7 @@
 
 <!-- 기술 스택 섹션 -->
 <h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<p align="center" style="background-color:#f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp; 
@@ -18,7 +18,7 @@
 
 <!-- 팔로우 섹션 -->
 <h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+<p align="center" style="background-color:#f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
   <a href="https://myinfo503.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://myinfo503.tistory.com"/></a>&nbsp;
   <a href="https://www.instagram.com/jeensoo_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/jeensoo_/"/></a>&nbsp;
   <a href="mailto:jinsu8828@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinsu8828@gmail.com"/></a>
@@ -26,7 +26,7 @@
 
 <!-- 방문자 수 섹션 -->
 <h3 align="center">👨‍💻 Visitors 👩‍💻</h3>
-<p align="center">
+<p align="center" style="background-color:#f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
   <a href="https://github.com/KimuJinsu">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimuJinsu&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false" alt="GITHUB">
   </a>
