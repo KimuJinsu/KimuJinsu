@@ -54,18 +54,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=FFDDC1,FFC3A0,FF96A1,FE6B8B,FF6F61&hide_border=true&line=58A6FF&color=FFFFFF&point=FF5733" width="95%"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=FFDDC1,FFC3A0,FF96A1,FE6B8B,FF6F61&hide_border=true&line=34eb37&color=FFFFFF&point=FF5733" width="95%"/>
-  </a>
-</div>
-
 <!-- 푸터 섹션: 웨이브 디자인 적용 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=000000&animation=twinkling" />
