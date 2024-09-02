@@ -21,12 +21,15 @@ jobs:
     steps:
       # GitHub 유저의 기여도 그래프에서 뱀 게임 생성, SVG 파일로 출력
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v2.0.0
         with:
-          github_user_name: KimuJinsu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: KimuJinsu  # GitHub 사용자 이름을 여기에 넣습니다.
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          color_snake: "#ff0000"  # 뱀의 색상 (예: 빨간색)
+          color_dots_1: "#000000"  # 잔디 기본 색상 (예: 검은색)
+          color_dots_2: "#1b512d"  # 잔디 변경된 부분 (예: 어두운 초록색)
+          color_dots_3: "#94b897"  # 잔디 잉여 부분 (예: 연한 초록색)
+          color_dots_4: "#ffffff"  # 배경 색상 (예: 흰색)
 
       # <build_dir>의 내용을 브랜치에 푸시
       - name: push github-contribution-grid-snake.svg to the output branch
