@@ -1,39 +1,24 @@
 name: generate animation
 
 on:
-  # 24시간마다 자동으로 실행
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # 언제든지 수동으로 실행할 수 있게 함
+    - cron: "0 */24 * * *"  
   workflow_dispatch:
-  
-  # master 브랜치에 푸시될 때마다 실행
-  push:
-    branches:
-    - master
-    
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
-      # GitHub 유저의 기여도 그래프에서 뱀 게임 생성, SVG 파일로 출력
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@master
         with:
           github_user_name: KimuJinsu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # <build_dir>의 내용을 브랜치에 푸시
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v7
         with:
-          target_branch: output
-          build_dir: dist
+          add: 'dist/*'
+          message: 'Generated snake'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
