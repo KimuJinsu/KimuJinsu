@@ -40,17 +40,17 @@
 <!-- GitHub 통계 섹션 -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=F85D7F&count_private=true" width="45%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=FFFFFF&title_color=F85D7F&count_private=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=F85D7F&count_private=true" width="45%" />
   </a>
 </div>
 
 <!-- 활동 그래프 섹션 -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react-dark&bg_color=0d1117&hide_border=true&line=F85D7F&color=58A6FF" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=ffffff&hide_border=true&line=F85D7F&color=58A6FF" width="95%"/>
   </a>
 </div>
 
