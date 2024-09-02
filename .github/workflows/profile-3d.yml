@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: KimuJinsu/github-profile-3d-contrib@0.6.0
+      - uses: KimuJinsu/github-profile-3d-contrib@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
