@@ -50,7 +50,7 @@
 <!-- 활동 그래프 섹션 -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=FFDDC1,FFC3A0,FF96A1,FE6B8B,FF6F61&hide_border=true&line=F9A825&color=FFFFFF&point=FF5733" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=ffffff,ffffff,cce7ff,e6f7ff,ffcccb&hide_border=true&line=007acc&color=000000&point=ff6347" width="95%"/>
   </a>
 </div>
 
