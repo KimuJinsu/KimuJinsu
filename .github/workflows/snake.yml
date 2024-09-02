@@ -1,29 +1,21 @@
-name: Generate Snake Animation
+
+name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # 매일 실행
+    - cron: "0 */24 * * *"  
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
+      - uses: actions/checkout@v2
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v2  # 여기서 실제 존재하는 리포지토리를 사용
+        uses: Platane/snk/svg-only@master
         with:
-          github_user_name: KimuJinsu  # 여기에 자신의 GitHub 사용자 이름을 입력
+          github_user_name: KimuJinsu
           outputs: dist/github-contribution-grid-snake.svg
-          color_snake: "#FFA500"  # 뱀의 색상
-          color_dots_1: "#FF5733"  # 첫 번째 점 색상
-          color_dots_2: "#33FF57"  # 두 번째 점 색상
-          color_dots_3: "#3357FF"  # 세 번째 점 색상
-          color_dots_4: "#FF33A6"  # 네 번째 점 색상
-
       - name: Commit and push
         uses: EndBug/add-and-commit@v7
         with:
