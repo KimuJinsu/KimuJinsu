@@ -32,6 +32,8 @@
   </a>
 </p> 
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!-- 기여도 그래프 섹션 -->
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
   <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #58A6FF);"/>
@@ -58,5 +60,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=000000&animation=twinkling" />
 </div>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
