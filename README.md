@@ -50,7 +50,19 @@
 <!-- 활동 그래프 섹션 -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=FFDDC1,FFC3A0,FF96A1,FE6B8B,FF6F61&hide_border=true&line=FFFFFF&color=FFFFFF&point=FFFFFF" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=FFDDC1,FFC3A0,FF96A1,FE6B8B,FF6F61&hide_border=true&line=F9A825&color=FFFFFF&point=FF5733" width="95%"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=FFDDC1,FFC3A0,FF96A1,FE6B8B,FF6F61&hide_border=true&line=58A6FF&color=FFFFFF&point=FF5733" width="95%"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=FFDDC1,FFC3A0,FF96A1,FE6B8B,FF6F61&hide_border=true&line=34eb37&color=FFFFFF&point=FF5733" width="95%"/>
   </a>
 </div>
 
