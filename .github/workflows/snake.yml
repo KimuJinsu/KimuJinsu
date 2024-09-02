@@ -14,10 +14,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Snake
-        uses: user/custom-snake-repo@v1.0.0  # 대체 리포지토리 사용
+        uses: Platane/snk/svg-only@v2  # 여기서 실제 존재하는 리포지토리를 사용
         with:
-          github_user_name: KimuJinsu
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: KimuJinsu  # 여기에 자신의 GitHub 사용자 이름을 입력
+          outputs: dist/github-contribution-grid-snake.svg
           color_snake: "#FFA500"  # 뱀의 색상
           color_dots_1: "#FF5733"  # 첫 번째 점 색상
           color_dots_2: "#33FF57"  # 두 번째 점 색상
