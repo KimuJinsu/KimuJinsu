@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/H2-003545?style=flat-square&logo=H2&logoColor=white"/>&nbsp;
 </p>
 
 <!-- 팔로우 섹션 -->
