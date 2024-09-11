@@ -41,18 +41,18 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=F9E6FF,EBD1FF,FFD1DC,FFF4C1,FFDDC1&icon_color=F9A825&text_color=2E3440&title_color=D97706&count_private=true" width="100%" />
   </a>
-</div> 
+</div>
+
+<!-- 기여도 그래프 섹션 -->
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #58A6FF);"/>
+</div>
 
 <!-- 활동 그래프 섹션 -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=ffffff,0d1117&hide_border=true&line=FF5733&color=9370DB&point=FFD700" width="95%"/>
   </a>
-</div>
-
-<!-- 기여도 그래프 섹션 -->
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #58A6FF);"/>
 </div>
 
 <!-- 푸터 섹션: 웨이브 디자인 적용 -->
