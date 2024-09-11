@@ -45,7 +45,7 @@
 <!-- 활동 그래프 섹션 -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=ffffff,0d1117&hide_border=true&line=FF5733&color=9370DB&point=FFD700" width="90%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=ffffff,0d1117&hide_border=true&line=FF5733&color=9370DB&point=FFD700" width="95%"/>
   </a>
 </div>
 
