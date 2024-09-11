@@ -33,12 +33,12 @@
 </p>
 
 <!-- GitHub 통계 섹션 -->
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; justify-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=FFDEE9,DDEFFB,C1FFDD,FFC3A0,FEE6E6&icon_color=F9A825&text_color=2E3440&title_color=D97706&count_private=true" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimuJinsu&layout=compact&show_icons=true&theme=radical&hide_border=true&bg_color=FFDEE9,DDEFFB,C1FFDD,FFC3A0,FEE6E6&icon_color=F9A825&text_color=2E3440&title_color=D97706&count_private=true" width="50%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=F9E6FF,EBD1FF,FFD1DC,FFF4C1,FFDDC1&icon_color=F9A825&text_color=2E3440&title_color=D97706&count_private=true" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KimuJinsu&show_icons=true&theme=radical&hide_border=true&bg_color=F9E6FF,EBD1FF,FFD1DC,FFF4C1,FFDDC1&icon_color=F9A825&text_color=2E3440&title_color=D97706&count_private=true" width="50%" />
   </a>
 </div>
 
