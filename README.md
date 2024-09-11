@@ -42,17 +42,18 @@
   </a>
 </div> 
 
-<!-- 기여도 그래프 섹션 -->
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #58A6FF);"/>
-</div>
-
 <!-- 활동 그래프 섹션 -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimuJinsu&theme=react&bg_color=ffffff,0d1117&hide_border=true&line=FF5733&color=9370DB&point=FFD700" width="90%"/>
   </a>
 </div>
+
+<!-- 기여도 그래프 섹션 -->
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <img src="https://github.com/KimuJinsu/KimuJinsu/blob/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #58A6FF);"/>
+</div>
+
 <!-- 푸터 섹션: 웨이브 디자인 적용 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=60&fontColor=000000&animation=twinkling" />
