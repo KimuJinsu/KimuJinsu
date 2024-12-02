@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Welcome%20to%20Jinsu%27s%20GitHub&fontSize=60&fontColor=000000&animation=twinkling" />
 </div>
 
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width: 120px; height: 25px; display: inline; margin: 0;"/><img 
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" style="width: 120px; height: 25px; display: inline; margin: 0;"/><img 
+  src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="width: 120px; height: 25px; display: inline; margin: 0;"/>
+</p>
+
 <!-- 기술 스택 섹션 -->
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
