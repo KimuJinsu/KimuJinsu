@@ -39,15 +39,6 @@
   <a href="mailto:jinsu8828@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jinsu8828@gmail.com"/></a>
 </p>
 
-<!-- 방문자 수 섹션 -->
-<h3 align="center">👨‍💻 Visitors 👩‍💻</h3>
-<p align="center">
-  <a href="https://github.com/KimuJinsu">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=KimuJinsu&left_color=black&right_color=red" 
-         alt="visitor badge">
-  </a>
-</p>
-
 <!-- GitHub 통계 섹션 -->
 <!--div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
